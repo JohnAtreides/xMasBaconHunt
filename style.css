@@ -88,9 +88,7 @@ header {
   height: 1033px;
   background-image: url("images/baldursForest.jpg");
   background-position: center;
-  border: 2px gray solid; 
-  margin-top: 20px;
-	padding: 0 6px;
+  border: 2px gray solid;
 }
 
 /* Style the navigation bar */
