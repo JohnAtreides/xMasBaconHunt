@@ -1,0 +1,6 @@
+# ignoring the whole lesson dir :
+correction_JohnVersion
+
+
+#ignoring the debug related pictures :
+images/error[0-9]*.PNG
